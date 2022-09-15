@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(222, 217, 209);
+    text-align: center;
+}
+
+h1 {
+    color:rgb(227, 94, 11);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    width: 50%;
+    margin: 10px;
+    border: solid black 3px;
+}
+
+p {
+    padding: 0px 30px 0px 30px
+}
+
+.box {
+    border: solid rgb(91, 74, 48) 3px;
+    margin: 5px 20px 5px 20px;
+}
+
+span {
+    color:rgb(227, 94, 11);
+}
+
+.email {
+    font-size: 20px;
+    color:rgb(227, 94, 11);
+}
+
+.here {
+    color: rgb(167, 78, 26);
+    text-decoration: none;
+    transition-duration: 2s;
+}
+
+.here:hover {
+    color:rgb(249, 243, 234)
+}
